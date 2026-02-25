@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## How to Run
 
 ```bash
-python train.py
+python main.py
 ```
 
 ## Expected Output
